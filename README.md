@@ -10,7 +10,7 @@
 
 ### CREDIT 📩
 - BASE CODE [@AspanyEx](https://t.me/AspanyEx) & [@GITHUB](https://github.com/Aspany-Tech/Aspany)
-     <p align="center"><img src="https://img.shields.io/badge/%20COPYRIGHT%20%C2%A9%202023-%20By%20XDXL%20STORE%2C%20Inc-blue"></p> 
+     <p align="center"><img src="https://img.shields.io/badge/%20ASPANY%20%C2%A9%202023-%20By%20X-%20TECH%2C%20Inc-blue"></p> 
  <b> 
  </b> 
  <br> 
